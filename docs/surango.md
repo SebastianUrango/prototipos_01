@@ -11,7 +11,7 @@
 Una tienda de barrio que no cuenta con una base de datos virtual enfrenta dificultades para llevar un control eficiente de su inventario y de las ventas diarias. Muchas veces se realizan registros manuales en cuadernos que pueden perderse, dañarse o quedar incompletos, lo que provoca confusión al momento de calcular las ganancias o reponer mercancía.
  
 # ÁRBOL DE PROBLEMAS.
-``` sirena
+``` 
 gráfico TD
     A[Objetivo central: Implementar un sistema digital de gestión de inventario en la tienda de barrio]
     %% Medios (soluciones)
